@@ -1,8 +1,25 @@
-# React + Vite
+# AI-Gemini-Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A feature-rich clone of the Gemini platform built using **JavaScript**, **Tailwind CSS**, **Gemini API**, and **MongoDB**. This project demonstrates modern web development practices with a focus on responsive design, seamless integrations, and backend functionality.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- **Responsive Design**: Built with Tailwind CSS for mobile-first, scalable UI.
+- **API Integration**: Powered by Gemini's API to fetch and display dynamic data.
+- **MongoDB Backend**: Utilized for storing and managing data.
+- **Interactive Components**: JavaScript-based dynamic UI for enhanced user experience.
+- **Custom Styling**: Tailored, elegant design with animations and effects.
+
+---
+
+## Clone the repository:
+```code
+.
+git clone https://github.com/Manvendra200125/-AI-Gemini-Clone.git
+cd AI-Gemini-Clone
+npm run dev
+http://localhost:3000
+
+
